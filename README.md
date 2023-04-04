@@ -1,0 +1,1 @@
+An automatic birthday wisher with python, and uses some functionality of pandas library
